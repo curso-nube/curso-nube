@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Introducción al sistema de control de fuentes git"
+date:   2014-11-27 10:00:00
+categories: control-fuentes git software-libre
+---
+
+[Ángel Pablo Hinojosa](http://psicobyte.github.io) impartirá esta
+clase, y hablará de
+[`git`](https://github.com/psicobyte/Taller-de-Git), el estándar
+actual en control de fuentes.

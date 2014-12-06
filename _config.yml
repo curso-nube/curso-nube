@@ -7,8 +7,8 @@ description: "Computación en Nube para el centro de provesores"
 # Your name. Will show in your footer + sidebar 
 author: "JJ Merelo"
 
-url: "http://curso-nube.github.io"
-baseurl: ""
+url: ""
+baseurl: "http://curso-nube.github.io"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
 author-bio: "Curso de Cloud Computing por <a href='http://jj.github.io'>JJ</a>"
