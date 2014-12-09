@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bienvenido al curso"
+title:  "Desarrollo basado en pruebas: TDD"
 date:   2014-12-09 16:30:00
 categories: [test,tdd,broccoli,gulp,grunt,continuous integration,ic,ci,makefile,build tools, deployment, despliegue]
 ---
