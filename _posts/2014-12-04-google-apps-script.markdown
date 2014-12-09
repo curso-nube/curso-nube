@@ -2,7 +2,7 @@
 layout: post
 title:  "Software como Servicio: Google Apps Script"
 date:   2014-12-04 16:30:00
-categories: lenguajes tutoriales Google Drive GAS
+categories: [lenguajes, tutoriales, Google Drive, GAS]
 ---
 
 *Google Apps Script* es el *lenguaje de macros* de las aplicaciones de
