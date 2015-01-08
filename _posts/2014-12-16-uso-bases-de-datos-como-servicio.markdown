@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DBaaS: Plataformas como servicio"
+title:  "DBaaS: Bases de datos como servicio"
 date:   2014-12-16 16:30:00
 categories: [DBaaS, Redis, NoSQL, PaaS, SaaS]
 ---
